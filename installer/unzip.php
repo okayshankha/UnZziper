@@ -20,7 +20,7 @@ if (!file_exists('./uploads/' . $data['fileName'])) {
 
 $res = $zip->open('./uploads/' . $data['fileName']);
 if ($res === TRUE) {
-    if($zip->extractTo('../testUnzip/')){
+    if($zip->extractTo('./testUnzip/')){
       	if (isset($data['deleteXpo'])) {
       		if ($data['deleteXpo'] == 'true')
     			unlink('./uploads/' . $data['fileName']);

@@ -11,6 +11,6 @@ Description:
 1. A fast way to upload your files to the server without opening your Cpanel.
 2. Jquery file upload and PHP unzip;
 3. Easy user interface.
-4. No installation, unzip this file once and let it do the further UnZzip Works.
+4. No installation, unzip this file once and let it do the further UnZzip Works for you.
 
 url: www.team9.rf.gd/UnZziper

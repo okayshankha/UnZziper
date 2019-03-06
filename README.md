@@ -13,4 +13,4 @@ Description:
 3. Easy user interface.
 4. No installation, unzip this file once and let it do the further UnZzip Works for you.
 
-url: www.team9.rf.gd/UnZziper
+url: https://okayshankha.ga/unzziper

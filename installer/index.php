@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <style type="text/css">
             /*            .progress-bar
                         {
@@ -32,7 +31,6 @@
             }
         </style>
         <link href="cssJS/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <script src="cssJS/bootstrap.min.js" type="text/javascript"></script>
         <script src="cssJS/jquery-3.1.1.min.js" type="text/javascript"></script>
       <script>
             $(function () {

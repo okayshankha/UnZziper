@@ -16,4 +16,4 @@ Description:
 2. Jquery file upload and PHP unzip;
 3. Easy user interface.
 4. No installation, unzip this file once and let it do the further UnZzip Works for you.
-5. To access it on local machine just unzip it to **htdocs/your-folder-name** or **www/your-folder-name** folder and goto the address **http://localhost/your-folder-name/installer**
+5. To access it on local machine just unzip it to **htdocs/your-folder-name** or **www/your-folder-name** folder and goto the address **http://localhost/your-folder-name/installer*
